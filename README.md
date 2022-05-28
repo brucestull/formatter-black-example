@@ -4,6 +4,7 @@
 * https://black.readthedocs.io/en/stable/getting_started.html
 * https://pypi.org/project/black/
 * https://github.com/psf/black
+* https://www.freecodecamp.org/news/auto-format-your-python-code-with-black/
 
 ## Prepare:
 * Check for needed changes:  
